@@ -18,7 +18,7 @@ This Tampermonkey script adds functionality to withdraw sent connection requests
 
 ## Usage
 
-Navigate to your LinkedIn Sent Invitations page (https://www.linkedin.com/mynetwork/invite-sent/).
+Navigate to your LinkedIn Sent Invitations page (https://www.linkedin.com/mynetwork/invitation-manager/sent/).
 Look for the new "Withdraw All" button near the top of the page.
 Click the button to start the withdrawal process.
 Open your browser's developer console to view the progress logs.
